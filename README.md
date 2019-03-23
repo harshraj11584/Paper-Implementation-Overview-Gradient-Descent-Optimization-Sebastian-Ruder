@@ -16,12 +16,12 @@ Implemented following Gradient Desent Optimization Algorithms from Scratch:
 
 1. Vanilla Batch/Stochastic Gradient Descent [[4]](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)   
 
-2. Momentum [[5]](https://www.cs.toronto.edu/~fritz/absps/momentum.pdf)  
-3. NAG : Nesterov Accelarated Gradient  [[6]](https://www2.cs.uic.edu/~zhangx/teaching/agm.pdf)
-4. AdaGrad : Adaptive Gradient Algorithm [[7]](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
-5. AdaDelta : Adaptive Learning Rate Method [[8]](https://arxiv.org/abs/1212.5701)
-6. RMS Prop  [[9]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)   
-7. Adam : Adaptive Moment Estimation [[10]](https://arxiv.org/abs/1412.6980) [[11]](https://arxiv.org/pdf/1412.6980.pdf)  
-8. AdaMax : Infinity Norm based Adaptive Moment Estimation [[12]](https://arxiv.org/pdf/1412.6980.pdf)  
-9. Nadam : Nesterov-accelarated Adaptive Moment Estimation [[13]](http://cs229.stanford.edu/proj2015/054_report.pdf)  
-10. AMSGrad [[14]](http://www.satyenkale.com/papers/amsgrad.pdf) 
+2. Momentum [[5]](https://www.cs.toronto.edu/~fritz/absps/momentum.pdf) : **momentum.py**  
+3. NAG : Nesterov Accelarated Gradient  [[6]](https://www2.cs.uic.edu/~zhangx/teaching/agm.pdf) : **nesterov_accelarated_gradient.py**
+4. AdaGrad : Adaptive Gradient Algorithm [[7]](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) : **adagrad.py**
+5. AdaDelta : Adaptive Learning Rate Method [[8]](https://arxiv.org/abs/1212.5701) : **adadelta.py**
+6. RMS Prop  [[9]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) : **rms_prop.py**   
+7. Adam : Adaptive Moment Estimation [[10]](https://arxiv.org/abs/1412.6980) [[11]](https://arxiv.org/pdf/1412.6980.pdf) : **adam.py**  
+8. AdaMax : Infinity Norm based Adaptive Moment Estimation [[12]](https://arxiv.org/pdf/1412.6980.pdf) : **adamax.py**  
+9. Nadam : Nesterov-accelarated Adaptive Moment Estimation [[13]](http://cs229.stanford.edu/proj2015/054_report.pdf) : **nadam.py**  
+10. AMSGrad [[14]](http://www.satyenkale.com/papers/amsgrad.pdf) : **amsgrad.py**

@@ -8,6 +8,7 @@ print('\n\nInitial Setup Complete')
 
 
 
+
 def adam(c_f, f):	
 	print "f(x) = ",c_f
 	f_dash = diff(c_f,x)

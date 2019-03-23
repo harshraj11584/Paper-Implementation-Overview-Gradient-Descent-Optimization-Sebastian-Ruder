@@ -14,7 +14,7 @@ Link to Blog with Paper Explanation : [[3]](http://ruder.io/optimizing-gradient-
 
 Implemented following Gradient Desent Optimization Algorithms from Scratch:  
 
-1. Vanilla Batch/Stochastic Gradient Descent [[4]](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)   
+1. Vanilla Batch/Stochastic Gradient Descent [[4]](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) : **batch_gradient_descent.py**   
 
 2. Momentum [[5]](https://www.cs.toronto.edu/~fritz/absps/momentum.pdf) : **momentum.py**  
 3. NAG : Nesterov Accelarated Gradient  [[6]](https://www2.cs.uic.edu/~zhangx/teaching/agm.pdf) : **nesterov_accelarated_gradient.py**

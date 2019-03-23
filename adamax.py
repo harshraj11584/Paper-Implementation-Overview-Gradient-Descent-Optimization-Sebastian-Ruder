@@ -9,6 +9,7 @@ print('\n\nInitial Setup Complete')
 
 
 
+
 def adamax(c_f, f):	
 	print "f(x) = ",c_f
 	f_dash = diff(c_f,x)
@@ -76,7 +77,7 @@ print """
 	tanh(x)   Hyperbolic tangent of x	
 		
 		"""
-#example cost_functions are given
+#example cost functions are given
 #cost_function = '-2*((-x+1/x)/(x*(x-1/x)**2)-1/(x*(x-1/x)))'
 #cost_function="(7/2)*x**3 - x**9 +1"
 #cost_function="6*x**5+11*x**4 -33*x**3-33*x**2 + 11*x+6"

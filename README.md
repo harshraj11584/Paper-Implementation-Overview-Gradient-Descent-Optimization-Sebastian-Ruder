@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 
 
-## "An Overview of Gradient Descent Optimization Algorithms"   
+## arXiv paper : "An Overview of Gradient Descent Optimization Algorithms"   
 ##  - Sebastian Ruder  
 
 ## Python 2.7  

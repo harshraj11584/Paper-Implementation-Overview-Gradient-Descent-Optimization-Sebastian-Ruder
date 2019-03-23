@@ -24,4 +24,9 @@ Implemented following Gradient Desent Optimization Algorithms from Scratch:
 7. Adam : Adaptive Moment Estimation [[10]](https://arxiv.org/abs/1412.6980) [[11]](https://arxiv.org/pdf/1412.6980.pdf) : **adam.py**  
 8. AdaMax : Infinity Norm based Adaptive Moment Estimation [[12]](https://arxiv.org/pdf/1412.6980.pdf) : **adamax.py**  
 9. Nadam : Nesterov-accelarated Adaptive Moment Estimation [[13]](http://cs229.stanford.edu/proj2015/054_report.pdf) : **nadam.py**  
-10. AMSGrad [[14]](http://www.satyenkale.com/papers/amsgrad.pdf) : **amsgrad.py**
+10. AMSGrad [[14]](http://www.satyenkale.com/papers/amsgrad.pdf) : **amsgrad.py**   
+
+### Time an Error Analysis : 
+Minimized dummy Cost Function f(x) = x^2 using default values as initial approximation = 1, error tolerance = 0.0001, learning rate = 0.1, gamma = 0.9, beta_1 = 0.9, beta_2 = 0.999  
+
+![alt text](https://github.com/harshraj11584/Paper-Implementation-Overview-Gradient-Descent-Optimization-Algorithms/blob/master/error_chart.png)

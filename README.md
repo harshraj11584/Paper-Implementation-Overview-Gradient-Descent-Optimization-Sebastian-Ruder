@@ -8,7 +8,7 @@
 
 ## Python 2.7  
 
-Links to original paper published on arXiv.org>cs>arXiv:1609.04747  : [[1]](https://arxiv.org/abs/1609.04747), [[2]](https://arxiv.org/pdf/1609.04747.pdf)   
+Links to Original Paper published on arXiv.org>cs>arXiv:1609.04747  : [[1]](https://arxiv.org/abs/1609.04747), [[2]](https://arxiv.org/pdf/1609.04747.pdf)   
 
 Link to Blog with Paper Explanation : [[3]](http://ruder.io/optimizing-gradient-descent/index.html)  
 
